@@ -1,6 +1,6 @@
 
-<a href="https://github.com/Charmve/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+<a href="https://github.com/Lttcc/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Lttcc&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
 ## Hi, 👋  I'm <a href="https://Lttcc.github.io/" target="_blank">Lttcc </a>
