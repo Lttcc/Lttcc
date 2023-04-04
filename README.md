@@ -4,6 +4,17 @@
 </a>
 
 ## Hi, 👋  I'm <a href="https://Lttcc.github.io/" target="_blank">Lttcc </a>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    -->
+  </a>
+</p>
+<p align="center">
 <a href="https://github.com/Charmve">
     <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
   </a>
@@ -19,6 +30,8 @@
   <a href="https://github.com/Charmve">
     <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
   </a>
+</p>
+ <h2></h2>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lttcc" /> </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Lttcc.id" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lttcc&theme=xcode" /> </div>
