@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/Lttcc/Lttcc?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
     <img src="https://badges.strrl.dev/years/Lttcc?style=flat-square&color=black&logo=github">
