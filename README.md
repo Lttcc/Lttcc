@@ -1,7 +1,7 @@
-
+<a href="https://github.com/Lttcc">
 
     <img align="right" src="https://komarev.com/ghpvc/?username=Lttcc&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-
+</a>
 
 ## Hi, 👋  I'm <a href="https://Lttcc.github.io/" target="_blank">Lttcc </a>
 <br>
@@ -15,19 +15,19 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Charmve">
+<a href="https://github.com/Lttcc">
     <img src="https://badges.strrl.dev/visits/Lttcc/Lttcc?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/Lttcc">
     <img src="https://badges.strrl.dev/years/Lttcc?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
+  <a href="https://github.com/Lttcc?tab=repositories">
     <img src="https://badges.strrl.dev/repos/Lttcc?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
+  <a href="https://gist.github.com/Lttcc">
     <img src="https://badges.strrl.dev/gists/Lttcc?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/Lttcc">
     <img src="https://badges.strrl.dev/commits/monthly/Lttcc?style=flat-square&color=black&logo=github">
   </a>
 </p>
